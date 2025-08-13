@@ -20,7 +20,7 @@ function App() {
     neuro_fatigue: ''
   });
 
-  const API_BASE = 'http://localhost:8000';
+  const API_BASE = 'https://biomark-be.onrender.com';
 
   // Check API status
   useEffect(() => {
