@@ -268,7 +268,7 @@ function App() {
                 <Zap size={32} />
               </div>
               <div className="header-text">
-                <h1 className="main-title">BioSyncDEX™</h1>
+                <h1 className="main-title">BioSync</h1>
                 <p className="subtitle">Real-time Biomarker Monitoring & ML Intervention System</p>
               </div>
             </div>
